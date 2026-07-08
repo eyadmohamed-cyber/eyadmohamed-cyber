@@ -57,7 +57,7 @@ https://github.com/eyadmohamed-cyber/CTF-Writeups
 
 ## Experience
 
-Cybersecurity Intern, ICT Hub Egypt
+Cybersecurity Trainee, ICT Hub Egypt
 60 hours of structured cybersecurity training covering network scanning, 
 enumeration, web application reconnaissance, and penetration testing 
 methodology using Nmap, Burp Suite, Gobuster, and Nikto.
