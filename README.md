@@ -55,27 +55,28 @@ https://github.com/eyadmohamed-cyber/CTF-Writeups
 
 ---
 
-## Experience
+## Certifications and Training
 
-Cybersecurity Trainee, ICT Hub Egypt
-60 hours of structured cybersecurity training covering network scanning, 
-enumeration, web application reconnaissance, and penetration testing 
+TryHackMe Jr Pentester Learning Path
+Completed 8th July 2026, 94 hours 25 minutes
+Credential ID: THM-5KNNGNVGSJ
+https://tryhackme.com/certificate/THM-5KNNGNVGSJ
+
+Cybersecurity trainee, ICT Hub Egypt
+60 hours of structured cybersecurity training covering network scanning,
+enumeration, web application reconnaissance, and penetration testing
 methodology using Nmap, Burp Suite, Gobuster, and Nikto.
-
----
 
 ## Currently Working On
 
-TryHackMe Jr Pentester Path, completing final challenges before moving 
-to the Web Hacking module and HackTheBox.
-
+TryHackMe Web Hacking module, following completion of the Jr Pentester
+Learning Path. Next milestone is HackTheBox Starting Point.
 ---
 
 ## Connect
 
 LinkedIn: https://linkedin.com/in/eyad-mohamed1
 TryHackMe: https://tryhackme.com/p/mr.robot141
-
 <!--
 **eyadmohamed-cyber/eyadmohamed-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
